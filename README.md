@@ -12,7 +12,7 @@ adding new features, improvements, bug fixes and modernization.
 
 ## Maintainer
 
-Đặng Hoàng Minh
+Dang Hoang Minh
 
 ## License
 
