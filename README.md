@@ -1,6 +1,6 @@
-# SuperPuTTY DHM
+# SuperPuTTY HM
 
-SuperPuTTY DHM is an independently maintained fork of
+SuperPuTTY HM is an independently maintained fork of
 [SuperPuTTY](https://github.com/jimradford/superputty).
 
 ## Original Project
